@@ -1,0 +1,14 @@
+C:\Users\tasne\source\repos\Observer1\Observer1\bin\Debug\Observer1.exe.config
+C:\Users\tasne\source\repos\Observer1\Observer1\bin\Debug\Observer1.exe
+C:\Users\tasne\source\repos\Observer1\Observer1\bin\Debug\Observer1.pdb
+C:\Users\tasne\source\repos\Observer1\Observer1\obj\Debug\Observer1.csprojAssemblyReference.cache
+C:\Users\tasne\source\repos\Observer1\Observer1\obj\Debug\Observer1.csproj.CoreCompileInputs.cache
+C:\Users\tasne\source\repos\Observer1\Observer1\obj\Debug\Observer1.exe
+C:\Users\tasne\source\repos\Observer1\Observer1\obj\Debug\Observer1.pdb
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Final\Observer1\Observer1\bin\Debug\Observer1.exe.config
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Final\Observer1\Observer1\bin\Debug\Observer1.exe
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Final\Observer1\Observer1\bin\Debug\Observer1.pdb
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Final\Observer1\Observer1\obj\Debug\Observer1.csprojAssemblyReference.cache
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Final\Observer1\Observer1\obj\Debug\Observer1.csproj.CoreCompileInputs.cache
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Final\Observer1\Observer1\obj\Debug\Observer1.exe
+C:\Users\tasne\OneDrive\Masaüstü\yazılım tasarımı ve mimarisi\Final\Observer1\Observer1\obj\Debug\Observer1.pdb
